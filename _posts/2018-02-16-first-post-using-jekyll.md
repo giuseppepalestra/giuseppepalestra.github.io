@@ -7,4 +7,6 @@ categories: news
 
 ## First Post
 
+{{ post.date }}
+
 My first post using Jekyll.
