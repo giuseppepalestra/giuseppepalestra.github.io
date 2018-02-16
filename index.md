@@ -8,7 +8,7 @@ My research activity focuses on:
 - Facial Expression Recognition
 
 ## Where I was born
-I was born in Italy, in the wordeful Apulia region.
+I was born in Italy, in the wordeful [Apulia](https://en.wikipedia.org/wiki/Apulia) region.
 
 ## Blog
 <ul>
