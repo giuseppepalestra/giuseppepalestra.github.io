@@ -23,6 +23,8 @@
     </section>
 
     <section class="main-content">
+      {{ post.title }}
+      {{ post.date | date: "%B %-d, %Y" }}
       {{ content }}
 
       <footer class="site-footer">
