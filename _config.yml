@@ -2,4 +2,17 @@ title: Giuseppe Palestra
 description: Giuseppe Palestra's Personal Page
 show_downloads: false
 google_analytics:
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+
+
+#title: My Jekyll Demo Site
+email: info AT giuseppepalestra.it
+#description: > 
+#  My site for demonstrating how to build a Jekyll website hosted on GitHub Pages, built for a Programming Historian lesson.
+#baseurl: "/JekyllDemo" # the subpath of your site, e.g. /blog
+url: "www.giuseppepalestra.it" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: giupalestra
+
+# Build settings
+markdown: kramdown
+theme: minima
