@@ -10,13 +10,11 @@ My research activity focuses on:
 I was born in Italy, in the wordeful region of [Apulia](https://en.wikipedia.org/wiki/Apulia).
 
 ## Blog
-<ul>
+<ul class="posts">
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
 ### Updated
-<em>{{ page.date | date_to_string }}</em>
+<em>{{ site.date | date_to_string }}</em>
