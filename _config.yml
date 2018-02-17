@@ -2,7 +2,7 @@ title: Giuseppe Palestra
 description: Giuseppe Palestra's Personal Page
 show_downloads: false
 google_analytics:
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 
 
 #title: My Jekyll Demo Site
@@ -12,7 +12,3 @@ email: info AT giuseppepalestra.it
 #baseurl: "/JekyllDemo" # the subpath of your site, e.g. /blog
 url: "www.giuseppepalestra.it" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: giupalestra
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-cayman
