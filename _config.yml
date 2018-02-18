@@ -1,10 +1,14 @@
 title: Giuseppe Palestra
 description: Giuseppe Palestra's Personal Page
-url: www.giuseppepalestra.it
+url: "http://www.giuseppepalestra.it"
 author: Giuseppe Palestra
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-toc
+  - jekyll-last-modified-at
 
 twitter:
   username: giupalestra
