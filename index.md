@@ -11,6 +11,7 @@ I was born in Italy, in the wordeful region of [Apulia](https://en.wikipedia.org
 
 ## Video
 [Could This Tai Chi-Teaching Robot Change Autism?](https://www.youtube.com/watch?v=3DVgyvtr-Oc)
+
 [Robot provides therapy for autistic children](https://www.youtube.com/watch?v=HEJhnIgyFm0) Full version in Italian
 
 [Quando nasce HERO](http://www.reteconomy.it/embed-video.aspx?id=121951) in Italian
