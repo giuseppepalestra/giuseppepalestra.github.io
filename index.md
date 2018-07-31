@@ -61,7 +61,9 @@ I was born in Italy, in the wordeful region of [Apulia](https://en.wikipedia.org
 </ul>
 
 
-
+<!---
 
 ### Updated : *{{ site.time | date_to_long_string }}*
 {{ page.last_modified_at }}
+
+-->
