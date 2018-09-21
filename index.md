@@ -1,5 +1,5 @@
 ## Giuseppe Palestra
-I am a researcher in Social Robotics and Assistive Techologies.
+I am a researcher in Social Robotics and Assistive Technologies.
 
 ## Research Interests
 My research activity focuses on: 
@@ -22,6 +22,7 @@ I was born in Italy, in the wordeful region of [Apulia](https://en.wikipedia.org
 * Palestra G. (2016). Il nuovo sistema di email dell'Università di Bari, Edizioni Accademiche Italiane, ISBN: 978-3-330-77662-3
      
 ### International Journals
+* D'Errico, F., Paciello, M., De Carolis, B., Vattanid, A., Palestra, G., & Anzivino, G. (2018). Cognitive Emotions in E-Learning Processes and Their Potential Relationship with Students' Academic Adjustment. International Journal of Emotional Education, 10(1), 89-111.
 * De Carolis, B., de Gemmis, M., Lops, P., & Palestra, G. (2017). Recognizing users feedback from non-verbal communicative acts in conversational recommender systems. Pattern Recognition Letters, 99, 87-95.
 * De Carolis, B., Ferilli, S., & Palestra, G. (2017). Simulating empathic behavior in a social assistive robot. Multimedia Tools and Applications, 76(4), 5073-5094.
 * Palestra, G., Cazzato, D., Adamo, F., Bortone, I., & Distante, C. (2017). Assistive robot, rgb-d sensor and graphical user interface to encourage communication skills in asd population. Journal of Medical Robotics Research, 2(02), 1740002.
